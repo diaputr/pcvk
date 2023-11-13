@@ -17,3 +17,5 @@ Kelas: TI - 3A
 8. UTS
 9. Morphology: Erosi, Dilasi, Opening, Closing, Top-Hat, Black-Hat, Skeleton, dan Thickening
 10. Thresholding
+11. Object Detection
+12. Face Detection
