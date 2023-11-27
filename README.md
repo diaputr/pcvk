@@ -19,3 +19,4 @@ Kelas: TI - 3A
 10. Thresholding
 11. Object Detection
 12. Face Detection
+13. Kuis 2
